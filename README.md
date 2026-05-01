@@ -72,8 +72,8 @@ This project demonstrates a usage of a basic genetic algorithm to minimize the w
 
 ## Results
 
-<img src="images/index.png" width = "400"/>
-<img src="images/index2.png" width = "400"/>
+<img src="Genetic_Algorithm_Traffic_Optimization/images/index.png" width = "400"/>
+<img src="Genetic_Algorithm_Traffic_Optimization/images/index2.png" width = "400"/>
 
 ## References:
  - [Traffic-Light-Optimization](https://github.com/MarkJanith/Traffic-Light-Optimization)
